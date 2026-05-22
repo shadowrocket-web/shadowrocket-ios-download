@@ -1,7 +1,7 @@
 # Shadowrocket iOS Download｜小火箭配置与下载指南 2026
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/你的用户名/shadowrocket-ios-download/main/assets/banner.png" width="100%" alt="Shadowrocket iOS Download">
+  <img src="https://raw.githubusercontent.com/shadowrocket-web/shadowrocket-ios-download/main/assets/banner.png" width="100%" alt="Shadowrocket iOS Download">
 </p>
 
 <p align="center">
